@@ -1,0 +1,35 @@
+<menu>
+  <food>
+    <name>Pizza</name>
+    <price>$20</price>
+    <calories>560</calories>
+  </food>
+</menu>
+<menu>
+  <food>
+    <name>Hotdog</name>
+    <price>$20</price>
+    <calories>560</calories>
+  </food>
+</menu>
+<menu>
+  <food>
+    <name>Hamburger</name>
+    <price>$12</price>
+    <calories>380</calories>
+  </food>
+</menu>
+<menu>
+  <food>
+    <name>Timsum</name>
+    <price>$12</price>
+    <calories>560</calories>
+  </food>
+</menu>
+<menu>
+  <food>
+    <name>Spagetthi</name>
+    <price>$20</price>
+    <calories>560</calories>
+  </food>
+</menu>
